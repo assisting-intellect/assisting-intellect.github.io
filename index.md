@@ -1,45 +1,45 @@
 ---
 layout: home
-title: Thingking Machine
+title: Assisting Intellect
 ---
-# Thingking Machine
+# Assisting Intellect
 
 <pre>
   A machine is a <b>thing</b>. Things can not <b>think</b>. ...but some of them can <b>thingk</b>!
 </pre>
 
-[Thingking-Machine (meta)](https://thingking-machine.github.io/meta/)
+[Assisting-Intellect (metai)](https://assisting-intellect.github.io/metai/)
 
-[Thingking-Machine (gemini)](https://thingking-machine.github.io/gemini/)
+[Assisting-Intellect (gemini)](https://assisting-intellect.github.io/gemini/)
 
-[Thingking-Machine (geminit)](https://thingking-machine.github.io/geminit/)
+[Assisting-Intellect (geminit)](https://assisting-intellect.github.io/geminit/)
 
-[Thingking-Machine (openai)](https://thingking-machine.github.io/openai/)
+[Assisting-Intellect (openai)](https://assisting-intellect.github.io/openai/)
 
-[Thingking-Machine (openaic)](https://thingking-machine.github.io/openaic/)
+[Assisting-Intellect (openaic)](https://assisting-intellect.github.io/openaic/)
 
-[Thingking-Machine (oaio)](https://thingking-machine.github.io/oaio/)
+[Assisting-Intellect (oaio)](https://assisting-intellect.github.io/oaio/)
 
-[Thingking-Machine (grok)](https://thingking-machine.github.io/grok/)
+[Assisting-Intellect (grok)](https://assisting-intellect.github.io/grok/)
 
-[Thingking-Machine (grokf)](https://thingking-machine.github.io/grokf/)
+[Assisting-Intellect (grokf)](https://assisting-intellect.github.io/grokf/)
 
-[Thingking-Machine (grokc)](https://thingking-machine.github.io/grokc/)
+[Assisting-Intellect (grokc)](https://assisting-intellect.github.io/grokc/)
 
-[Thingking-Machine (fireworks)](https://thingking-machine.github.io/fireworks/)
+[Assisting-Intellect (fireworks)](https://assisting-intellect.github.io/fireworks/)
 
-[Thingking-Machine (fireworksr)](https://thingking-machine.github.io/fireworksr/)
+[Assisting-Intellect (fireworksr)](https://assisting-intellect.github.io/fireworksr/)
 
-[Thingking-Machine (fireworkc)](https://thingking-machine.github.io/fireworkc/)
+[Assisting-Intellect (fireworkc)](https://assisting-intellect.github.io/fireworkc/)
 
-[Thingking-Machine (depsek)](https://thingking-machine.github.io/depsek/)
+[Assisting-Intellect (depsek)](https://assisting-intellect.github.io/depsek/)
 
-[Thingking-Machine (depsekc)](https://thingking-machine.github.io/depsekc/)
+[Assisting-Intellect (depsekc)](https://assisting-intellect.github.io/depsekc/)
 
-[Thingking-Machine (depsekr)](https://thingking-machine.github.io/depsekr/)
+[Assisting-Intellect (depsekr)](https://assisting-intellect.github.io/depsekr/)
 
-[Thingking-Machine (depsekrp)](https://thingking-machine.github.io/depsekrp/)
+[Assisting-Intellect (depsekrp)](https://assisting-intellect.github.io/depsekrp/)
 
 
 
-Thingking-Machine is just one of participants of the [Multilogue](multilogue)
+Assisting-Intellect is just one of participants of the [Multilogue](multilogue)
